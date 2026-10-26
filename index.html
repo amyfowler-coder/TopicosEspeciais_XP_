@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Info XP | Cápsula do Tempo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="desktop">
+        <div id="icons"></div>
+    </div>
+    <div id="windows"></div>
+    <div id="startmenu" hidden>
+        <header><img src="assets/desktop.png" style="width: 30px; height: 30px;" alt="Info 302 XP"> Info 302 XP <small>Arquivos de memórias · 2026</small></header>
+        <div class="startcols">
+            <div><button data-action="welcome">Tópicos Especiais — 2076</button><button data-action="all">📂 Minhas Memórias</button><button data-action="laravel">📁 Laravel</button><button data-action="music">🎵 Windows Media Player</button></div>
+            <div><button data-action="all">💻 Meu Computador</button><button data-action="about">❔ Sobre o projeto</button></div>
+        </div>
+        <footer><img src="assets/shutdown.png" style="width: 30px;" alt="Encerrar sessão"> Encerrar sessão</footer>
+    </div>
+    <div id="taskbar"><button id="start"><img src="assets/windows-xp.png"  alt="TARDIS"> iniciar</button>
+        <div id="tasks"></div>
+        <div id="tray">🔊 <span id="clock"></span></div>
+    </div><audio id="bgmusic" preload="metadata"></audio>
+    <script src="dados.js"></script>
+    <script src="laravel.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

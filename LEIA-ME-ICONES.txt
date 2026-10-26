@@ -1,0 +1,1 @@
+ÍCONES: assets/desktop.png, explorer.png, folder.png, msn-icon-6.png, restart.png, wallpaper.jpg e windows-xp.png. Todos incluídos. Abra index.html no navegador. Os arquivos originais de memórias e mídias foram mantidos.

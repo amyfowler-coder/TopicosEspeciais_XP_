@@ -1,0 +1,9 @@
+TARDIS XP - Arquivos de Memorias
+
+1. Extraia todo o ZIP.
+2. Abra index.html no Chrome ou Edge.
+3. Clique duas vezes nas pastas para abrir.
+4. Abra Windows Media Player para ouvir as musicas reais enviadas.
+5. A pasta Laravel esta preparada para memorias coletivas; coloque arquivos em Laravel e registre-os em laravel.js.
+
+21 envios; um estudante enviou duas vezes. Datas correspondem ao envio do formulario.
